@@ -1,0 +1,34 @@
+figcaption{
+  padding: 1.25em;
+  width: 50rem;
+  border: 1px solid lightgray;
+  border-radius: 0.5rem;
+  font-size: 1.2em;
+  padding-right: 0;
+}
+
+img{
+  float:left;
+  height: 20rem;
+  width: 20rem;
+}
+.description{
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 6.3rem;
+  margin: 0;
+  border-bottom: 1px solid lightgray;
+}
+
+  
+.note {
+  padding-top: 2rem;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.stars {
+  color: wheat;
+  font-size: 3rem;
+}
