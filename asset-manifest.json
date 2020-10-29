@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Maxime-Monjal/cardcss/static/css/main.0af0adbd.chunk.css",
+    "main.js": "/Maxime-Monjal/cardcss/static/js/main.4c5a97e8.chunk.js",
+    "main.js.map": "/Maxime-Monjal/cardcss/static/js/main.4c5a97e8.chunk.js.map",
+    "runtime-main.js": "/Maxime-Monjal/cardcss/static/js/runtime-main.6ebd588e.js",
+    "runtime-main.js.map": "/Maxime-Monjal/cardcss/static/js/runtime-main.6ebd588e.js.map",
+    "static/js/2.50ce0d0b.chunk.js": "/Maxime-Monjal/cardcss/static/js/2.50ce0d0b.chunk.js",
+    "static/js/2.50ce0d0b.chunk.js.map": "/Maxime-Monjal/cardcss/static/js/2.50ce0d0b.chunk.js.map",
+    "static/js/3.f7837b08.chunk.js": "/Maxime-Monjal/cardcss/static/js/3.f7837b08.chunk.js",
+    "static/js/3.f7837b08.chunk.js.map": "/Maxime-Monjal/cardcss/static/js/3.f7837b08.chunk.js.map",
+    "index.html": "/Maxime-Monjal/cardcss/index.html",
+    "static/css/main.0af0adbd.chunk.css.map": "/Maxime-Monjal/cardcss/static/css/main.0af0adbd.chunk.css.map",
+    "static/js/2.50ce0d0b.chunk.js.LICENSE.txt": "/Maxime-Monjal/cardcss/static/js/2.50ce0d0b.chunk.js.LICENSE.txt",
+    "static/media/rozes.3fff6bbf.jpg": "/Maxime-Monjal/cardcss/static/media/rozes.3fff6bbf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ebd588e.js",
+    "static/js/2.50ce0d0b.chunk.js",
+    "static/css/main.0af0adbd.chunk.css",
+    "static/js/main.4c5a97e8.chunk.js"
+  ]
+}
